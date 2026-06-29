@@ -4,7 +4,6 @@
 
 A scroll-reactive, fully-animated personal portfolio for **Praveenkumar Murugan** — Senior Cybersecurity Consultant @ LTIMindtree. Built as a single-page static site with zero dependencies, zero build step, zero framework.
 
-[![Cyberpunk Portfolio Preview](og-preview.png)]
 
 ---
 
