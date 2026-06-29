@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0xpr4v33n.github.io/pfo/sitemap.xml
