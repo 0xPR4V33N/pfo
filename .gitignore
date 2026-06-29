@@ -1,0 +1,41 @@
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+node_modules/
+dist/
+build/
+.cache/
+
+# Local secrets / drafts
+.env
+.env.local
+*.local
+draft-*
+scratch/
+
+# Backups
+*.bak
+*.old
+*.orig
+*.tmp
+
+# Design source files
+og-preview.psd
+og-preview.fig
+
+# Personal notes
+NOTES.md
+TODO.md
+private/
